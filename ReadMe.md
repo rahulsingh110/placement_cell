@@ -22,4 +22,4 @@ for this objective user can download the repository from git and then extract th
 
 ## Take A look :
 This Project is hosted live at [Link](https://cpteamplacementcell.herokuapp.com/)
-Git Hub [Link](https://github.com/developeramit14jan/PlacementCell)
+Git Hub [Link](https://github.com/rahulsingh110/placement_cell)
